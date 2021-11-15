@@ -3,7 +3,10 @@ import Slide from "./dontChange/Slider";
 
 export default function App() {
   
-// so 
+// so add image with whatever decription here
+// this is the only place you will edit , this "MyArray"
+//so you will copy the "dontchange" folder to your own directory without doing anything there
+// then this will be the component to use and display , any question or issue message me  
 const myArray = [
   {
     class:"img-container img-container-1",
